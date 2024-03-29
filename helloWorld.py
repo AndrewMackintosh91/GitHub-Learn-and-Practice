@@ -1,2 +1,2 @@
-user_input = input("Type your name: ")
-print(f"Hello {user_input}!")
+user_name = input("Type your name: ")
+print(f"Hello {user_name}!")
